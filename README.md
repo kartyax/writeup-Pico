@@ -8,7 +8,7 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Easy** | 3 | - | - | - | - |
 | **Medium** | 7 | - | - | - | - |
-| **Hard** | 3 | 1 | - | - | - |
+| **Hard** | 4 | 1 | - | - | - |
 
 ---
 
