@@ -8,3 +8,7 @@ node_modules/
 .vscode/
 Download/
 SKILL.md
+*.dd
+*.img
+*.iso
+*.gz
