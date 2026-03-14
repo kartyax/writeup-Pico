@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+node_modules/
+*.swp
+.DS_Store
+*.gdb
+.gdb_history
+.vscode/
