@@ -2,7 +2,7 @@
 
 Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikategorikan berdasarkan tingkat kesulitan dan tipe kerentanan.
 
-## 📊 Summary
+## Summary
 
 | Level      | Web Exploitation | Binary Exploitation | Cryptography | Reverse Engineering | Forensics |
 | :--------- | :--------------: | :-----------------: | :----------: | :-----------------: | :-------: |
