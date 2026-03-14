@@ -1,3 +1,3 @@
 folder ini buat download data dari forum ya brok
 
-file/folder harap di kosongkan jika flag ketemu / solved
+iai file/folder harap di pindahkan sesuai challenge jika flag ketemu / solved

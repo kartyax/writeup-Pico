@@ -6,7 +6,7 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 
 | Level | Web Exploitation | Binary Exploitation | Cryptography | Reverse Engineering | Forensics |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Easy** | 3 | - | - | - | - |
+| **Easy** | 3 | - | - | - | 1 |
 | **Medium** | 7 | - | - | - | 1 |
 | **Hard** | 4 | 1 | - | - | - |
 
@@ -30,4 +30,5 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 
 ## 📝 Latest Changes
 - Reorganized folder structure by Category and Level.
+- Added Forensics writeups: Flag in Flame (Medium) and Corrupted file (Easy).
 - Added standard writeup template.
