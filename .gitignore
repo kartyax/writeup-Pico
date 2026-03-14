@@ -6,4 +6,5 @@ node_modules/
 *.gdb
 .gdb_history
 .vscode/
-.Download/
+Download/
+SKILL.md
