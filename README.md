@@ -6,8 +6,8 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 
 | Level      | Web Exploitation | Binary Exploitation | Cryptography | Reverse Engineering | Forensics |
 | :--------- | :--------------: | :-----------------: | :----------: | :-----------------: | :-------: |
-| **Easy**   |        3         |          -          |      -       |          -          |     2     |
-| **Medium** |        7         |          -          |      -       |          -          |     1     |
+| **Easy**   |        3         |          1          |      -       |          -          |     3     |
+| **Medium** |        9         |          1          |      -       |          -          |     1     |
 | **Hard**   |        4         |          1          |      -       |          -          |     -     |
 
 ---
