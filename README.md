@@ -1,6 +1,9 @@
 # PicoCTF Writeups & Exploits
 
-Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikategorikan berdasarkan tingkat kesulitan dan tipe kerentanan.
+Koleksi writeup dan script ekploitasi untuk berbagai tantangan PicoCTF.
+
+> [!NOTE]
+> Penulisan/Dokumentasi **README.md** dan **writeup.md** dalam repo ini dihasilkan secara otomatis oleh **AI Agent**.
 
 ## Summary
 
@@ -39,6 +42,8 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 ├── templates/
 │   └── README.md                      ← template writeup
 ```
+
+
 
 - `Easy/`: Tantangan dasar untuk pemanasan.
 - `Medium/`: Tantangan kelas menengah yang melibatkan konsep lebih dalam.
