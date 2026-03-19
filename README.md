@@ -15,7 +15,7 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 ## Directory Structure
 
 ```
-├── Easy/                              
+├── Easy/
 │   ├── Binary Exploitation/
 │   ├── Cryptography/
 │   ├── Forensics/
@@ -36,7 +36,7 @@ Koleksi writeup dan script eksploitasi untuk berbagai tantangan PicoCTF, dikateg
 │   ├── General Skills/
 │   ├── Reverse Engineering/
 │   └── Web Exploitation/
-├── templates/                         
+├── templates/
 │   └── README.md                      ← template writeup
 ```
 
