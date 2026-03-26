@@ -11,7 +11,7 @@ Koleksi writeup dan script ekploitasi untuk berbagai tantangan PicoCTF.
 | :--------- | :--------------: | :-----------------: | :----------: | :-----------------: | :-------: |
 | **Easy**   |        3         |          1          |      -       |          -          |     3     |
 | **Medium** |        10        |          1          |      1       |          -          |     3     |
-| **Hard**   |        4         |          2          |      -       |          -          |     -     |
+| **Hard**   |        4         |          2          |      1       |          -          |     -     |
 
 ---
 
